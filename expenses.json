@@ -1,0 +1,374 @@
+[
+    {
+        "amount": "200",
+        "category": "Food",
+        "description": "Lunch",
+        "date": "2026-11-12"
+    },
+    {
+        "amount": "150",
+        "category": "Travel",
+        "description": "Bus",
+        "date": "2026-11-12"
+    },
+    {
+        "amount": "500",
+        "category": "Shopping",
+        "description": "Clothes",
+        "date": "2026-11-05"
+    },
+    {
+        "amount": "100",
+        "category": "Food",
+        "description": "Breakfast",
+        "date": "2026-11-08"
+    },
+    {
+        "amount": "1200",
+        "category": "Rent",
+        "description": "PG rent",
+        "date": "2026-11-01"
+    },
+    {
+        "amount": "80",
+        "category": "Travel",
+        "description": "Auto",
+        "date": "2026-10-28"
+    },
+    {
+        "amount": "300",
+        "category": "Food",
+        "description": "Dinner",
+        "date": "2026-10-25"
+    },
+    {
+        "amount": "750",
+        "category": "Shopping",
+        "description": "Shoes",
+        "date": "2026-10-15"
+    },
+    {
+        "amount": "250",
+        "category": "Entertainment",
+        "description": "Movie",
+        "date": "2026-09-20"
+    },
+    {
+        "amount": "400",
+        "category": "Food",
+        "description": "Groceries",
+        "date": "2026-09-10"
+    },
+    {
+        "amount": "250",
+        "category": "Food",
+        "description": "Breakfast at cafe",
+        "date": "2026-10-31"
+    },
+    {
+        "amount": "1200",
+        "category": "Groceries",
+        "description": "Weekly supermarket run",
+        "date": "2026-10-30"
+    },
+    {
+        "amount": "150",
+        "category": "Transport",
+        "description": "Bike taxi ride",
+        "date": "2026-10-29"
+    },
+    {
+        "amount": "450",
+        "category": "Food",
+        "description": "Dinner with friends",
+        "date": "2026-10-28"
+    },
+    {
+        "amount": "300",
+        "category": "Entertainment",
+        "description": "Movie ticket",
+        "date": "2026-10-27"
+    },
+    {
+        "amount": "180",
+        "category": "Food",
+        "description": "Snacks and coffee",
+        "date": "2026-10-26"
+    },
+    {
+        "amount": "800",
+        "category": "Utilities",
+        "description": "Mobile recharge and data",
+        "date": "2026-10-25"
+    },
+    {
+        "amount": "220",
+        "category": "Food",
+        "description": "Lunch delivery",
+        "date": "2026-10-24"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "Motorcycle petrol fill",
+        "date": "2026-10-23"
+    },
+    {
+        "amount": "350",
+        "category": "Shopping",
+        "description": "Stationery items",
+        "date": "2026-10-22"
+    },
+    {
+        "amount": "190",
+        "category": "Food",
+        "description": "Breakfast",
+        "date": "2026-10-21"
+    },
+    {
+        "amount": "1500",
+        "category": "Groceries",
+        "description": "Monthly pantry stock",
+        "date": "2026-10-20"
+    },
+    {
+        "amount": "120",
+        "category": "Transport",
+        "description": "Short auto ride",
+        "date": "2026-10-19"
+    },
+    {
+        "amount": "600",
+        "category": "Food",
+        "description": "Restaurant dinner",
+        "date": "2026-10-18"
+    },
+    {
+        "amount": "250",
+        "category": "Utilities",
+        "description": "Subscription service",
+        "date": "2026-10-17"
+    },
+    {
+        "amount": "400",
+        "category": "Shopping",
+        "description": "T-shirt purchase",
+        "date": "2026-10-16"
+    },
+    {
+        "amount": "210",
+        "category": "Food",
+        "description": "Fast food lunch",
+        "date": "2026-10-15"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "Petrol refill",
+        "date": "2026-10-14"
+    },
+    {
+        "amount": "130",
+        "category": "Food",
+        "description": "Evening tea and snacks",
+        "date": "2026-10-13"
+    },
+    {
+        "amount": "950",
+        "category": "Groceries",
+        "description": "Vegetables and fruits",
+        "date": "2026-10-12"
+    },
+    {
+        "amount": "300",
+        "category": "Transport",
+        "description": "Round trip commute",
+        "date": "2026-10-11"
+    },
+    {
+        "amount": "350",
+        "category": "Food",
+        "description": "Sunday special meal",
+        "date": "2026-10-10"
+    },
+    {
+        "amount": "180",
+        "category": "Food",
+        "description": "Breakfast takeaway",
+        "date": "2026-10-09"
+    },
+    {
+        "amount": "1200",
+        "category": "Shopping",
+        "description": "Footwear",
+        "date": "2026-10-08"
+    },
+    {
+        "amount": "240",
+        "category": "Food",
+        "description": "Lunch at canteen",
+        "date": "2026-10-07"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "Bike fuel",
+        "date": "2026-10-06"
+    },
+    {
+        "amount": "150",
+        "category": "Food",
+        "description": "Juice and snacks",
+        "date": "2026-10-05"
+    },
+    {
+        "amount": "850",
+        "category": "Groceries",
+        "description": "Daily essentials",
+        "date": "2026-10-04"
+    },
+    {
+        "amount": "200",
+        "category": "Transport",
+        "description": "Bike taxi",
+        "date": "2026-10-03"
+    },
+    {
+        "amount": "400",
+        "category": "Food",
+        "description": "Dinner with friends",
+        "date": "2026-10-02"
+    },
+    {
+        "amount": "300",
+        "category": "Utilities",
+        "description": "Water bill contribution",
+        "date": "2026-10-01"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "Petrol refill",
+        "date": "2026-09-30"
+    },
+    {
+        "amount": "220",
+        "category": "Food",
+        "description": "Lunch",
+        "date": "2026-09-29"
+    },
+    {
+        "amount": "1100",
+        "category": "Groceries",
+        "description": "Monthly stock up",
+        "date": "2026-09-28"
+    },
+    {
+        "amount": "160",
+        "category": "Transport",
+        "description": "Commute",
+        "date": "2026-09-27"
+    },
+    {
+        "amount": "350",
+        "category": "Food",
+        "description": "Restaurant takeout",
+        "date": "2026-09-26"
+    },
+    {
+        "amount": "150",
+        "category": "Food",
+        "description": "Coffee and pastry",
+        "date": "2026-09-25"
+    },
+    {
+        "amount": "600",
+        "category": "Shopping",
+        "description": "Books and notebooks",
+        "date": "2026-09-24"
+    },
+    {
+        "amount": "200",
+        "category": "Food",
+        "description": "Lunch",
+        "date": "2026-09-23"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "Petrol",
+        "date": "2026-09-22"
+    },
+    {
+        "amount": "1300",
+        "category": "Groceries",
+        "description": "Supermarket essentials",
+        "date": "2026-09-21"
+    },
+    {
+        "amount": "250",
+        "category": "Food",
+        "description": "Evening snacks",
+        "date": "2026-09-20"
+    },
+    {
+        "amount": "180",
+        "category": "Transport",
+        "description": "Bike taxi ride",
+        "date": "2026-09-19"
+    },
+    {
+        "amount": "450",
+        "category": "Food",
+        "description": "Dinner outing",
+        "date": "2026-09-18"
+    },
+    {
+        "amount": "300",
+        "category": "Entertainment",
+        "description": "Gaming arcade",
+        "date": "2026-09-17"
+    },
+    {
+        "amount": "210",
+        "category": "Food",
+        "description": "Lunch",
+        "date": "2026-09-16"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "Petrol",
+        "date": "2026-09-15"
+    },
+    {
+        "amount": "900",
+        "category": "Groceries",
+        "description": "Vegetables and dairy",
+        "date": "2026-09-14"
+    },
+    {
+        "amount": "140",
+        "category": "Food",
+        "description": "Breakfast",
+        "date": "2026-09-13"
+    },
+    {
+        "amount": "250",
+        "category": "Transport",
+        "description": "Travel fare",
+        "date": "2026-09-12"
+    },
+    {
+        "amount": "500",
+        "category": "Food",
+        "description": "Lunch",
+        "date": "2026-11-14"
+    },
+    {
+        "amount": "500",
+        "category": "Fuel",
+        "description": "transport",
+        "date": "2026-11-12"
+    }
+]
